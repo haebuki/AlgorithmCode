@@ -4,8 +4,8 @@
 
 성취도
 ======
-  computational thinking (0/5) ..0%
-  beginner 제외
-  intermediate (0/11) ..0%
-  advanced (0/24) ..0%
+  computational thinking (0/5) ..0%    
+  beginner 제외    
+  intermediate (0/11) ..0%    
+  advanced (0/24) ..0%    
   
